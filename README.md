@@ -33,15 +33,5 @@ $ bash scripts/train_all.sh
 $ bash scripts/test_all.sh
 ```
 
-## Citation
-```
-@inproceedings{kim2025guide,
-  title={GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought},
-  author={Kim, Sungsik and Baek, Janghyun and Kim, Jinkyu and Lee, Jaekoo},
-  booktitle={Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems},
-  pages={1107--1116},
-  year={2025}
-}
-```
 
 
